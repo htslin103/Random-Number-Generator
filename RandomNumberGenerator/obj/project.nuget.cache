@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pAHsWoh1/cE47aeUgxXwErv2stWEIeUBGHz8DQc1nfqXgfayvzY0tr6PRFU6ePb+1hgpNsnnoOOP5TQQQ+TjXA==",
+  "dgSpecHash": "nIaNsy+cQGOmzLjPC0CffEcS1HFDBEAPUgzVrqEODrJWpH9uzlnAWh9sjlMKQKaD/9trAg+qi05xx7avKwUanQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Helen\\source\\repos\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Helen\\source\\repos\\RandomNumberGenerator\\RandomNumberGenerator\\RandomNumberGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Helen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\Helen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\Helen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

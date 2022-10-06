@@ -10,6 +10,8 @@
             int[] newArray = Enumerable.Range(1, 10000).ToArray();
             var randomList = RandNumberGenerator.CreateRandomList(newArray);
             RandNumberGenerator.PrintList(randomList);
+            Console.WriteLine($" {Environment.NewLine} {Environment.NewLine} Press any key to exit");
+            Console.ReadKey();
         }
     }
 }
