@@ -14,7 +14,7 @@ Windows Server 2019: Standard and Datacenter.
 Windows Server 2016: Standard and Datacenter.
 
 ## Usage Instructions 
-* Click on the green Code button and click "Download Zip"
+* Click on the green Code button on this page and click "Download Zip"
 * Go to the location where you have saved the Random Number Generator zip and extract it 
 * Once extracted, click on the Random-Number-Generator-main folder, then RandomNumberGenerator, then the bin folder, then the Release folder, then the net6.0 folder
  The file path should look similar to this: YourStoredLocation\RandomNumberGenerator\RandomNumberGenerator\bin\Release\net6.0
