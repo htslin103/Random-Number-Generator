@@ -22,7 +22,7 @@ X64 Visual Studio 2022 is supported on the following x64-bit operating systems:
  YourStoredLocation\RandomNumberGenerator\RandomNumberGenerator\bin\Release\net6.0
  ```
  
-* Double click the Random Number Generator.Exe executable. The program will now run. 
+* Double click the RandomNumberGenerator.Exe executable. The program will now run. 
 
 ## Testing
 
