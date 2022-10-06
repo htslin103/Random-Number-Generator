@@ -1,5 +1,5 @@
 # Random Number Generator 
-Random Number Generator  is a program that generates a list of 10 0000 numbers from 1 to 10000 in random order each time the program is run. Each number is unique and must be between 1 and 10000(inclusive) 
+Random Number Generator  is a program that generates a list of 10 0000 numbers from 1 to 10000 in random order each time the program is run. Each number is unique and is between 1 and 10000(inclusive) 
 
 ## Tech/Framework
 Random Number Generator is a Microsoft console app written with the C# language
