@@ -9,6 +9,7 @@ namespace RandomNumberGenerator.Classes
 {
     public static class RandNumberGenerator
     {
+
         public static int[] CreateRandomList(int[] arr)
         {
             var rand = new Random();
@@ -21,7 +22,6 @@ namespace RandomNumberGenerator.Classes
                 arr[rand_index] = temp;
                 last_index -= 1;
             }
-
             return arr;
         }
 
